@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.e29fd6a4.css",
-    "main.js": "/static/js/main.5a7fdf9e.js",
-    "static/js/787.57bea386.chunk.js": "/static/js/787.57bea386.chunk.js",
-    "static/media/background_photo_desktop.jpg": "/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
-    "index.html": "/index.html",
-    "main.e29fd6a4.css.map": "/static/css/main.e29fd6a4.css.map",
-    "main.5a7fdf9e.js.map": "/static/js/main.5a7fdf9e.js.map",
-    "787.57bea386.chunk.js.map": "/static/js/787.57bea386.chunk.js.map"
+    "main.css": "/spotify-jammming-project/static/css/main.f8896ff7.css",
+    "main.js": "/spotify-jammming-project/static/js/main.aebef141.js",
+    "static/js/787.57bea386.chunk.js": "/spotify-jammming-project/static/js/787.57bea386.chunk.js",
+    "static/media/background_photo_desktop.jpg": "/spotify-jammming-project/static/media/background_photo_desktop.a0687f3fe6f1303a2d18.jpg",
+    "index.html": "/spotify-jammming-project/index.html",
+    "main.f8896ff7.css.map": "/spotify-jammming-project/static/css/main.f8896ff7.css.map",
+    "main.aebef141.js.map": "/spotify-jammming-project/static/js/main.aebef141.js.map",
+    "787.57bea386.chunk.js.map": "/spotify-jammming-project/static/js/787.57bea386.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e29fd6a4.css",
-    "static/js/main.5a7fdf9e.js"
+    "static/css/main.f8896ff7.css",
+    "static/js/main.aebef141.js"
   ]
 }
